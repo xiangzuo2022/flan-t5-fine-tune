@@ -1,0 +1,4 @@
+ python my_test.py \
+    --base_model 'google/flan-t5-small' \
+    --data_path '/newDisk/users/zhoumu/chat/alpaca-lora/data_path' \
+    --output_dir './lora-flan-t5-small'
